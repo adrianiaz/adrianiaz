@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adrian Niazi  
-- 🌱 I’m a 4th year student at Electronic System Design and innovation at NTNU
+- 🌱 I’m a 5th year student at Electronic System Design and innovation at NTNU
 
 <!---
 adrianiaz/adrianiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
